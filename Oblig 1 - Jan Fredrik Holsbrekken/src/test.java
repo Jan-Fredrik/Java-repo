@@ -17,6 +17,8 @@ public class test {
         Planet nyplanet = new Planet(navn, radius, masse);
         nyplanet.planetInfo();
 
+
+        // tester litteranje
         input.close();
     }
 }
